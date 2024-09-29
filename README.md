@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### My name is Kelsey!
 #### I am an Analytics Engineer and Tech-Moms Instructor
+#### Mother & Wife
 <!--
 **KelseyATaylor/KelseyATaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
