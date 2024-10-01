@@ -30,7 +30,7 @@
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kelsey-ann)  
 - 🐦 I also share insights on [X (Twitter)](https://x.com/Data_Kelsey)
 
-Thanks for stopping by! ✨ Keep shining! 🌟
+Thanks for stopping by! ✨ Keep shining! Never let anyone dull your sparkle. 🌟
 <!--
 **KelseyATaylor/KelseyATaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
