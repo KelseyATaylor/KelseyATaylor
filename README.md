@@ -21,7 +21,6 @@
 
 ### 💖 Fun Facts About Me:
 - 🌟 **Passion:** Uplifting women to enter and thrive in tech  
-- 🌸 **Aesthetic:** Bright, bold colors (pink, teal, and purple are my jam!)  
 - 🏆 **Final Capstone Project:** ‘Mothers in the Workforce: A Need, No Longer a Choice’  
 
 ---
