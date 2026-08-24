@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Kelsey Taylor
 
-### 💻 Analytics Engineer | 📊 Data Analytics Instructor | 💪 Mother & Wife
+### 💻 Data Analyst | 📊 Data Analytics Instructor | 💪 Mother & Wife
 
 ---
 
 🌸 Welcome to my GitHub profile! I love making data-driven decisions and building beautiful visualizations. Here’s a little bit more about me:
 
-- 💼 **Profession:** Analytics Engineer @ Health Catalyst  
+- 💼 **Profession:** Data Report Developer & Engineer @ HealthEquity
 - 🎓 **Instructor:** Helping women, especially mothers, break into tech careers as a Tech-Moms 2.0 Data Instructor - Check out [Tech-Moms](https://www.tech-moms.org/)!
 - 👩‍👧‍👦 **Life roles:** Proud mother and wife, juggling data and family with love
 
